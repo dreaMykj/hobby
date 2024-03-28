@@ -1,7 +1,48 @@
-h1{
+.body2 {
+
+ background-color: black;
+
+
+
+}
+
+.body1{
+    background-image: url(galaxy.jpg);
+}
+
+
+h1.titulo{
+    margin-top: 50px;
+    color: white;
+    font-family: "Fira code", monospace;
     text-align: center;
 }
 
-p{
+.h1{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    font-family: "Fira code", monospace;
+}
+
+.p{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    font-family: "Fira code", monospace;
+}
+
+.p2{
     text-align: center;
 }
+
+.h2{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    font-family: "Fira code", monospace;
+}
+
+
+
+
